@@ -1,0 +1,39 @@
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe.config
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\bin\Debug\test.pdb
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Form1.resources
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\obj\Debug\test.exe
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\obj\Debug\test.pdb
+c:\users\пользователь\documents\visual studio 2013\Projects\test\test\obj\Debug\test.yechim.resources
+C:\Users\Пользователь\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\test.admin.resources
+C:\Users\Пользователь\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\test.parol.resources
+C:\Users\Пользователь\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\test.fio.resources
+C:\Users\Пользователь\Desktop\naaaa\test\bin\Debug\test.exe.config
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.exe
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.pdb
+C:\Users\Пользователь\Desktop\naaaa\test\bin\Debug\test.exe
+C:\Users\Пользователь\Desktop\naaaa\test\bin\Debug\test.pdb
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.admin.resources
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.fio.resources
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.Form1.resources
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.parol.resources
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.yechim.resources
+C:\Users\Пользователь\Desktop\naaaa\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Programma\2-kurs misoolari\Projects\test\test\bin\Debug\test.exe.config
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.exe
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.pdb
+D:\Programma\2-kurs misoolari\Projects\test\test\bin\Debug\test.exe
+D:\Programma\2-kurs misoolari\Projects\test\test\bin\Debug\test.pdb
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.admin.resources
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.fio.resources
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.Form1.resources
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.parol.resources
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.yechim.resources
+D:\Programma\2-kurs misoolari\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache

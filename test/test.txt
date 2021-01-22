@@ -1,0 +1,51 @@
+natijani toping 3+5*5+2+3*5
+45
+25
+65
+24
+hisoblang pow(3,2)+sqrt(5*2+6)
+34
+25
+13
+27
+ekranga qanday natija chiqadi  a=3,b=4,s=0;  s=a+2*b-3*(a+b-2)
+-4
+5
+12
+-8
+natijani hisoblang a=2,b=4,c=5 a*6+b-c*a
+8
+6
+-5
+2
+hisoblang 2*21-56
+14
+-14
+20
+0
+natijani toping 3+3*3
+12
+21
+18
+9
+O'zbekiston Respublikasi Poytaxti
+Samarqand
+Toshkent
+Andijon
+Qashqadaryo
+ amalni bajaring 5+4*2-15
+12
+8
+-2
+3
+natijani toping 2+2-6*3+3*4
+2
+-2
+3
+4
+hisoblang 3+2*4-9
+2
+-2
+3
+-3
+1 8 11 17 22 26 32 38 42 46 
